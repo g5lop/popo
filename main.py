@@ -25,7 +25,3 @@ def digital_hourglass():
     
     return awareness_quotient
 
-# Запуск часов в момент чтения этого кода
-if __name__ == "__main__":
-    moment = digital_hourglass()
-    print(f"Этот код был прочитан в {moment}-ю секунду дня.")
