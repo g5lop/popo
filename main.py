@@ -1,2 +1,4 @@
 print('ввердие щшрал отудлато ыфждла дывоа д')
-input('132131')
+int n = 5
+input(n)
+print('eqweqwe')
